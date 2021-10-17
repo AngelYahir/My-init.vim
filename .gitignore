@@ -1,4 +1,5 @@
 pack
 autoload
 -
-coc-setting.json
+coc-settings.json
+.gitignore
